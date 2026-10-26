@@ -1,0 +1,6 @@
+{
+  "name": "Panabo City Hall Civil Registry Queue Management System",
+  "description": "Digital queue registration, PWD priority management, staff counter console, and real-time public display for the Civil Registry Office of Panabo City Hall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
